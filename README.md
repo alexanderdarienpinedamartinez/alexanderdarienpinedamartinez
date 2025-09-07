@@ -59,9 +59,8 @@
 
 
 
+## 📫 Connect with me
 
-📫 Connect with me
-[![My Portfolio](https://alexanderdarienpinedamartinez.pythonanywhere.com/static/favicon.ico)](https://alexanderdarienpinedamartinez.pythonanywhere.com/)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexanderdarienpinedamartinez/)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexanderdarienpinedamartinez/)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alexanderdarienpinedamartinez)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-5F9272?style=for-the-badge&logo=windowsterminal&logoColor=white)](https://alexanderdarienpinedamartinez.pythonanywhere.com/)  
