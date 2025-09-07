@@ -12,7 +12,7 @@
 - 🌍 Fluent in English & Spanish, conversational in French.  
 - ⚡ Calm under pressure, curious, and always learning.
 
-  ✨ *If there’s a better way to do things, I’ll usually be the one suggesting it (with a smile).
+ ## ✨ *If there’s a better way to do things, I’ll usually be the one suggesting it (with a smile).
 
 
 ## 🧰 Toolbox
@@ -47,7 +47,8 @@
 
 
 
-🎯 Fun Facts
+
+## 🎯 Fun Facts
 
 🎶 Terrible singer, excellent snack picker.
 
