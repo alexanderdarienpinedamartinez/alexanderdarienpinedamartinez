@@ -1,7 +1,7 @@
 
 🖥 Retro vibes, modern skills — welcome to my digital desktop.
 
-👋 Hi, I’m Alexander
+👋 Hi, I’m Alexander, 
 
 💾 IT professional based in EMEA who doesn’t just fix tech — I connect with people through it.  
 
@@ -54,7 +54,7 @@
 
 🛤️ Love learning Python just for the joy of it.
 
-🌱 Curious, resilient, and people-first.
+🌱 Curious, resilient, and people-first.  :-)
 
 💡 Dreams: merging empathy with evolving tech.
 
